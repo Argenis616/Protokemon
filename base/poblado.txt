@@ -1,0 +1,11 @@
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('1', 'Ash');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('2', 'Beauty');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('3', 'Biker');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('4', 'Bird Keeper');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('5', 'Black Belt');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('6', 'Bug Catcher');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('7', 'Burglar');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('8', 'Channeler');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('9', 'Cue Ball');
+INSERT INTO `pokemon`.`Trainer` (`idTrainer`, `name`) VALUES ('10', 'Misty');
+

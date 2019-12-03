@@ -24,4 +24,4 @@ def obtener_img_pokemon(pokemon,ruta=""):
     return url,ruta
 
 if __name__ == "__main__":
-    print obtener_img_pokemon("pikachu")
+    print obtener_img_pokemon("vaporeon")
