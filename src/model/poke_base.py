@@ -5,7 +5,7 @@ from mysql.connector import Error
 
 def get_trainers():
     try:
-        connection = mysql.connector.connect(host='localhost', database='pokemon', user='root', password='root')
+        connection = mysql.connector.connect(host='localhost', database='pokemon', user='root', password='Argenis616@')
         if connection.is_connected():
             cursor = connection.cursor()
             cursor.execute("SELECT idTrainer,name FROM pokemon.Trainer;")
@@ -22,4 +22,3 @@ def get_trainers():
             cursor.close()
             connection.close()
             
-
